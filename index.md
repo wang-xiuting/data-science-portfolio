@@ -42,4 +42,26 @@ An end-to-end analysis of the *XYZAutomotives* historical sales dataset (1980–
 
 ---
 
+## Additional Coursework (Assignments 01 & 02)
+
+Supporting coursework from CISC7204 – Data Science and Data Visualization, archived in the [data-science-project](https://github.com/wang-xiuting/data-science-project) repository alongside the featured project. Each folder contains the original notebooks, scripts, datasets, figures and project proposal, with a README describing the individual modules.
+
+### Assignment 01 — Data Analysis with Python
+
+Six modules covering the full analysis pipeline: importing datasets, data wrangling, exploratory data analysis, model development, and model evaluation and refinement. It concludes with a final project on King County house sales and a practice project on insurance-cost analysis.
+
+**Topics:** Pandas · missing-value handling · standardisation & binning · descriptive statistics · Pearson correlation · linear and polynomial regression · cross-validation · ridge regression · grid search
+
+**Browse the folder:** [assignment-01 on GitHub](https://github.com/wang-xiuting/data-science-project/tree/main/assignment-01)
+
+### Assignment 02 — Data Visualization with Python
+
+Five modules progressing from static charts to interactive dashboards: Matplotlib line, area, bar, pie, box, scatter and bubble plots; waffle charts, word clouds and regression plots; Folium geospatial maps; Plotly charts; and Dash applications with callbacks, including a flight-delay dashboard. The final module is the automobile-sales analysis that became the featured project above.
+
+**Topics:** Matplotlib · Seaborn · Plotly · Dash · Folium · interactive callbacks · choropleth maps
+
+**Browse the folder:** [assignment-02 on GitHub](https://github.com/wang-xiuting/data-science-project/tree/main/assignment-02)
+
+---
+
 *This portfolio is maintained for academic and professional demonstration purposes.*
