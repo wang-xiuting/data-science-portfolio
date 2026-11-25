@@ -34,6 +34,8 @@ An end-to-end analysis of the *XYZAutomotives* historical sales dataset (1980–
 
 *Yearly Statistics (2021).* Across 1980–2023, average sales peak near 7,000 units around 1995 and dip during 1990–91, 2000–01 and 2009–10. Sales are strongly seasonal, climbing to a December peak (about 30,000 units) and bottoming out in the first half of the year. In the 2021 recovery year the mix reverses: ExecutiveCar leads at roughly 3,800 units, suggesting buyers trade back up as confidence returns.
 
+*Limitation:* The dataset is a simulated historical teaching dataset (XYZAutomotives) and does not capture post-2023 EV market shifts.
+
 **Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Plotly · Dash · Folium
 
 **Repository:** [github.com/wang-xiuting/data-science-project](https://github.com/wang-xiuting/data-science-project)
